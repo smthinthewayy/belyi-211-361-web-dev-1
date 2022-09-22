@@ -1,0 +1,92 @@
+body {
+    font-family: Roboto, sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: rgb(68, 68, 68);
+    margin: 0px;
+    padding: 0px;
+}
+
+h2 {
+    text-align: center;
+    padding-bottom: 12px;
+    border-bottom: 2px solid rgb(204, 204, 204);
+}
+
+a {
+    color: rgb(255, 255, 255) !important;
+    text-decoration: none;
+}
+
+.navigation p {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0px auto;
+    padding: 0px 5px;
+}
+
+.site-header p {
+    width: 255px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0px auto 26px;
+}
+
+.site-header {
+    min-width: 550px;
+    height: 50px;
+    margin-bottom: 35px;
+    padding-top: 30px;
+    background-size: cover;
+    background-image: url(img/background.jpg);
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+.ava {
+    text-align: center;
+}
+
+ul.skills-list {
+    text-align: center;
+    padding: 4px;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+ul.skills-list li {
+    font-size: 25px;
+    display: inline;
+    margin-right: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-image: initial;
+    padding: 3px;
+}
+
+.site-footer {
+    min-width: 550px;
+    background-color: rgb(0, 0, 0);
+    background-image: url(img/background.jpg);
+    color: rgb(255, 255, 255);
+}
+
+.site-footer .container {
+    text-align: center;
+}
+
+.site-footer p {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0px 20px;
+}
