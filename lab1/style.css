@@ -48,6 +48,10 @@ a {
     text-align: center;
 }
 
+.who-is-me {
+    font-size: 16px;
+}
+
 ul.skills-list {
     text-align: center;
     padding: 4px;
