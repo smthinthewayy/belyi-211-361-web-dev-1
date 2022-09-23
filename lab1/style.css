@@ -23,7 +23,7 @@ table {
     font-size: 20px;
     width: 100%;
     border-collapse: collapse;
-    border: 3px solid black;
+    border: 1px solid black;
 }
 
 .navigation p {
@@ -64,31 +64,6 @@ table {
     text-align: center;
 }
 
-ul.skills-list {
-    text-align: center;
-    padding: 4px;
-}
-
-ul {
-    display: block;
-    list-style-type: disc;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    padding-inline-start: 40px;
-}
-
-ul.skills-list li {
-    font-size: 25px;
-    display: inline;
-    margin-right: 5px;
-    border-width: 1px;
-    border-style: solid;
-    border-color: rgb(0, 0, 0);
-    border-image: initial;
-    padding: 3px;
-}
 
 .site-footer {
     min-width: 550px;
