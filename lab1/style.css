@@ -18,6 +18,14 @@ a {
     text-decoration: none;
 }
 
+table {
+    table-layout: fixed;
+    font-size: 20px;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid black;
+}
+
 .navigation p {
     display: inline-block;
     vertical-align: middle;
@@ -50,6 +58,10 @@ a {
 
 .who-is-me {
     font-size: 16px;
+}
+
+.table-skills{
+    text-align: center;
 }
 
 ul.skills-list {
